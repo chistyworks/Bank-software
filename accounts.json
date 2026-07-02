@@ -1,0 +1,23 @@
+[
+    {
+        "CNIC": "040144444444444",
+        "Title": "Basit chishty",
+        "Balance": 45000.0,
+        "account_num": 1482,
+        "pin": 8541
+    },
+    {
+        "CNIC": "0401040404004",
+        "Title": "Rafay chuttar",
+        "Balance": 4995000.0,
+        "account_num": 5528,
+        "pin": 5014
+    },
+    {
+        "CNIC": "4250114446964",
+        "Title": "Abrar Hussain Chishty",
+        "Balance": 50000.0,
+        "account_num": 4484267566,
+        "pin": 9111
+    }
+]
